@@ -1,6 +1,6 @@
 - 👋 Hi, I’m nicholas
 - 👀 I’m interested in gaming, programming, the internet and all things nerdy and techy.
-- 🌱 I’m currently learning Java in university but hoping to learn more.
+- 🌱 I’m currently learning C# and Kotlin in university but hoping to learn more, I also know some Java too!
 - 📫 You can reach me on my email: nicholaswolfaardt49@gmail.com
 
 <!---
